@@ -1,0 +1,7 @@
+D:\Packt\TDD\Code\SRP\SRP\bin\Debug\SRP.dll
+D:\Packt\TDD\Code\SRP\SRP\bin\Debug\SRP.pdb
+D:\Packt\TDD\Code\SRP\SRP\obj\Debug\SRP.csprojResolveAssemblyReference.cache
+D:\Packt\TDD\Code\SRP\SRP\obj\Debug\SRP.csproj.CoreCompileInputs.cache
+D:\Packt\TDD\Code\SRP\SRP\obj\Debug\SRP.dll
+D:\Packt\TDD\Code\SRP\SRP\obj\Debug\SRP.pdb
+D:\Packt\TDD\Code\SRP\SRP\bin\Debug\SRP.dll.config

@@ -1,0 +1,8 @@
+D:\EvenService\EvenService\bin\Debug\netstandard2.0\EvenService.deps.json
+D:\EvenService\EvenService\bin\Debug\netstandard2.0\EvenService.dll
+D:\EvenService\EvenService\bin\Debug\netstandard2.0\EvenService.pdb
+D:\EvenService\EvenService\obj\Debug\netstandard2.0\EvenService.csproj.CoreCompileInputs.cache
+D:\EvenService\EvenService\obj\Debug\netstandard2.0\EvenService.AssemblyInfoInputs.cache
+D:\EvenService\EvenService\obj\Debug\netstandard2.0\EvenService.AssemblyInfo.cs
+D:\EvenService\EvenService\obj\Debug\netstandard2.0\EvenService.dll
+D:\EvenService\EvenService\obj\Debug\netstandard2.0\EvenService.pdb
