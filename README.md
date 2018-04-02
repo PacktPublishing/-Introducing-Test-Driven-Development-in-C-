@@ -8,12 +8,14 @@ By the end of this course, you will have the tools you need to start building bu
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>You will be introduced to Infrastructure-As-Code (IaC) and learn what it is all about. 
-<LI>Learn why automating your infrastructure is important (especially in a fast-paced agile environment).&nbsp; 
-<LI>You will learn how to deploy and configure your infrastructure automatically with Ansible and its various modules.&nbsp; 
-<LI>You will become familiar with Ansible playbooks and its various sections.&nbsp; 
-<LI>You will learn how to author, use, and distribute new Ansible roles.&nbsp; 
-<LI>You will learn how to automate the deployment and management of your AWS cloud resources </LI></UL></DIV>
+<LI>How to test your code using unit tests and unit test frameworks
+<LI>How to add test support to your project.&nbsp; 
+<LI>Explore the essentials of TDD.&nbsp; 
+<LI>How to write testable and maintainable code.&nbsp; 
+<LI>Understand why SOLID principles are important for testing.&nbsp; 
+<LI>Learn which anti-patterns should be avoided; 
+<LI>Learn what mocking is and how to use mocking frameworks;  
+<LI>Understand the selection of design patterns </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
