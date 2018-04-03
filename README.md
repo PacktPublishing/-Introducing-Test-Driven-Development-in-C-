@@ -27,7 +27,7 @@ Some experience in unit  testing (not mandatory)
 ### Technical Requirements
 This course has the following software requirements:<br/>
 This course has the following software requirements:<br/>
-● Visual Studio 2017
+● Visual Studio 2017<br/>
 This course has been tested on the following system configuration:<br/>
 ●	OS: Windows 10 Pro<br/>
 ●	Processor:Intel Core i5 3.3GHz<br/>
