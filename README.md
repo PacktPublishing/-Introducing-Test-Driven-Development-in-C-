@@ -26,13 +26,13 @@ Some experience in unit  testing (not mandatory)
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
+This course has the following software requirements:<br/>
 ● Visual Studio 2017
 This course has been tested on the following system configuration:<br/>
-●	OS: Windows 10 Pro
-●	Processor:Intel Core i5 3.3GHz
-●	Memory: 16GB
-●	Hard Disk Space: 1TB
+●	OS: Windows 10 Pro<br/>
+●	Processor:Intel Core i5 3.3GHz<br/>
+●	Memory: 16GB<br/>
+●	Hard Disk Space: 1TB<br/>
 ●	Video Card:Integrated Intel HD Graphic 4600
 
 
